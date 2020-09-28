@@ -6,7 +6,7 @@ This project is under development.
 
 1. Download this project and unzip it.
 
-2. Download the inputs and outputs folders and unzip them inside the project folder. You can download them [here](https://1drv.ms/u/s!AjettDH-3Gbni744Nks7Ns1eT3b1gQ?e=nGGt4B).
+2. Download the inputs and outputs folders and unzip them inside the project folder. You can download them [here](https://1drv.ms/u/s!AjettDH-3Gbni_UC-IKX7FivhsyGhQ?e=8jPOsV).
 
 3. Open this project `geoinfo2020.Rproj` with RStudio.
 
