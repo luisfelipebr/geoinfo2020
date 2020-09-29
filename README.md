@@ -1,4 +1,4 @@
-# Building Coverage Ratio estimate from LiDAR remote sensing technology data: an experiment in São Paulo (Brazil)
+# Building Coverage Ratio estimate from LiDAR remote sensing data: an experiment in São Paulo (Brazil)
 
 ## Tutorial
 
